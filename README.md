@@ -8,6 +8,7 @@ $ echo debug.log >> .gitignore
 $ git rm --cached debug.log
 rm 'debug.log'
 $ git commit -m "Start ignoring debug.log"
+
 You can omit the --cached option if you want to delete the file from both the repository and your local file system.
 
 https://www.atlassian.com/git/tutorials/saving-changes/gitignore
