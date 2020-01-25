@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 
 credentials/roots.pem 
+credentials/my_keyfile.json 
