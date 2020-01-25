@@ -124,6 +124,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Arkeup GIS specific
-credentials/roots.pem
-credentials/my_keyfile.json
+credentials/roots.pem 
